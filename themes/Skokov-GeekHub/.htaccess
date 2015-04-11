@@ -1,0 +1,4 @@
+ErrorDocument 404 /gh/index.php?error=404
+# BEGIN WordPress
+
+# END WordPress
